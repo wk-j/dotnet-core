@@ -1,0 +1,1 @@
+FROM microsoft/dotnet-nightly:3.0-sdk
